@@ -1,0 +1,19 @@
+
+.navbar {
+    background-color: darkgreen;
+    color: blanchedalmond;
+    margin-bottom: 8vh;
+}
+
+h1:hover {
+    color:darkkhaki
+}
+
+.navbar button {
+    margin-right: 0vw;
+}
+
+span {
+    align-items: center;
+    margin-right: 5vw;
+}

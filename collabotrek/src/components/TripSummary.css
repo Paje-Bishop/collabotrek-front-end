@@ -1,0 +1,39 @@
+
+
+li {
+    min-height: 20vh;
+    outline: solid;
+    margin:5%;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    background-color:darkseagreen;
+    color: white;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+.tripListItem:hover {
+    background-color: darkgreen;
+}
+
+.newTripItem {
+    background-color: darkseagreen;
+    opacity: 0.8;
+    background: repeating-linear-gradient( 
+        45deg, lightgoldenrodyellow, lightgoldenrodyellow 5px, darkseagreen 5px, darkseagreen 25px 
+        );
+    font-size: x-large;
+}
+
+.newTripItem:hover {
+    background-color: darkgreen;
+    opacity: 0.8;
+    background: repeating-linear-gradient( 
+        45deg, lightgoldenrodyellow, lightgoldenrodyellow 5px, darkgreen 5px, darkgreen 25px 
+        );
+}
+
+.tripSummary {
+    margin-bottom: 15%;
+}

@@ -1,0 +1,9 @@
+li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inviteItem {
+    min-width: 20%;
+}

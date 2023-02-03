@@ -1,0 +1,28 @@
+
+.triplist {
+    max-height: 35vh;
+    outline: solid;
+}
+
+.detailBody {
+    max-height: 100vh;
+}
+
+.invitees {
+    margin-right: auto;
+}
+
+.invitees li {
+    max-width: 70%;
+    margin: auto;
+}
+
+.invitees button {
+    max-width: fit-content;
+    word-wrap: break-word;
+}
+
+.invitees .row {
+    max-width: 70%;
+    margin: auto;
+}
